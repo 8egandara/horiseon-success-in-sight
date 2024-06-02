@@ -14,4 +14,4 @@ N/A
 
 ##Licence 
 
-https://github.com/8egandara/horiseon-success-in-sight/edit/main/README.md
+file:///C:/Users/admin/Desktop/Directory/horiseon-success-in-sight/Develop/index.html
